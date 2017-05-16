@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Nes-Demo</string>
+    <string name="app_name">Nes-Demo</string>    <string name="news">新闻</string>
+    <string name="weather">天气</string>
+    <string name="pictures">图片</string>
+    <string name="aboutme">关于我</string>
+    <string name="settings">设置</string>
 </resources>
